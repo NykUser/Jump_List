@@ -1,0 +1,18 @@
+CategoryName=Your Category 1
+Sample Excel File=C:\123.xlsx
+Copy Above to outlook="C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE"|/a "C:\123.xlsx"
+Sample Pdf=C:\Users\123.pdf
+Sample Word=D:\Documents\plan.docx
+Sample Txt File=D:\Documents\help.txt
+
+CategoryName=Sample Category 2
+Sample internet link=https://translate.google.com/
+Sample Folder=C:\Users
+Sample program=C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+Sample Cmd command=cmd.exe|/k systeminfo 
+
+CategoryName=Jump List
+Jumplist File=C:\Your File location\jump_list.txt
+Jumplist Update=D:\Your Exe location\Jump_List.exe|update
+
+CategoryName=leave Last Category Empty
