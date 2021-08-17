@@ -96,7 +96,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(248, Byte), Integer), CType(CType(242, Byte), Integer), CType(CType(248, Byte), Integer))
         Me.CancelButton = Me.Button1
-        Me.ClientSize = New System.Drawing.Size(125, 99)
+        Me.ClientSize = New System.Drawing.Size(125, 101)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.TbListMax)
